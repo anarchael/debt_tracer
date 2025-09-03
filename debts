@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+ruby debt-list.rb $1 $2 $3
